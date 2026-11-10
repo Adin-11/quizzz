@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Security in Azure - Interactive Quiz",
+  "description": "Interactive module-wise quiz application for Cloud Security in Microsoft Azure Environment with instant answer feedback and score evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
